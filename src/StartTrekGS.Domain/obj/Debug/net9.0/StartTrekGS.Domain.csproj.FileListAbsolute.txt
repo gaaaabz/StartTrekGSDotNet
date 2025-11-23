@@ -1,0 +1,11 @@
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\bin\Debug\net9.0\StartTrekGS.Domain.deps.json
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\bin\Debug\net9.0\StartTrekGS.Domain.dll
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\bin\Debug\net9.0\StartTrekGS.Domain.pdb
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\StartTrekGS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\StartTrekGS.Domain.AssemblyInfoInputs.cache
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\StartTrekGS.Domain.AssemblyInfo.cs
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\StartTrekGS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\StartTrekGS.Domain.dll
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\refint\StartTrekGS.Domain.dll
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\StartTrekGS.Domain.pdb
+C:\Users\gabriel\Downloads\StartTrekGS\src\StartTrekGS.Domain\obj\Debug\net9.0\ref\StartTrekGS.Domain.dll
