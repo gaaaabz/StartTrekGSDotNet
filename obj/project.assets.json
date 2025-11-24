@@ -1642,11 +1642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel\\Downloads\\StartTrekGS_fixed\\StartTrekGS.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel\\Downloads\\StartTrekGSDotNet\\StartTrekGS.csproj",
       "projectName": "StartTrekGS",
-      "projectPath": "C:\\Users\\gabriel\\Downloads\\StartTrekGS_fixed\\StartTrekGS.csproj",
+      "projectPath": "C:\\Users\\gabriel\\Downloads\\StartTrekGSDotNet\\StartTrekGS.csproj",
       "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel\\Downloads\\StartTrekGS_fixed\\obj\\",
+      "outputPath": "C:\\Users\\gabriel\\Downloads\\StartTrekGSDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

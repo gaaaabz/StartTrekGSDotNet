@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StartTrekGS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae15d4ecc5b4f67b8312b6c05e36c7a99d782c6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("StartTrekGS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StartTrekGS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

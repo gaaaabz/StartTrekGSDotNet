@@ -64,3 +64,12 @@ C:\Users\gabriel\Downloads\StartTrekGS_fixed\obj\Debug\net9.0\StartTrekGS.Assemb
 C:\Users\gabriel\Downloads\StartTrekGS_fixed\obj\Debug\net9.0\StartTrekGS.csproj.CoreCompileInputs.cache
 C:\Users\gabriel\Downloads\StartTrekGS_fixed\obj\Debug\net9.0\StartTrekGS.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\gabriel\Downloads\StartTrekGS_fixed\obj\Debug\net9.0\StartTrekGS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.csproj.AssemblyReference.cache
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.AssemblyInfoInputs.cache
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.AssemblyInfo.cs
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabriel\Downloads\StartTrekGSDotNet\obj\Debug\net9.0\StartTrekGS.sourcelink.json

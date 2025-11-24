@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ofKs3fCnsDU=",
+  "dgSpecHash": "VIV0ircjmLQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel\\Downloads\\StartTrekGS_fixed\\StartTrekGS.csproj",
+  "projectFilePath": "C:\\Users\\gabriel\\Downloads\\StartTrekGSDotNet\\StartTrekGS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
     "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
