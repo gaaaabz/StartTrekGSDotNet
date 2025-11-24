@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("StartTrekGS")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StartTrekGS.Domain")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91ed8da76fe00b817fe28ff25e19eb4e32a4054b")]
-[assembly: System.Reflection.AssemblyProductAttribute("StartTrekGS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("StartTrekGS")]
+[assembly: System.Reflection.AssemblyProductAttribute("StartTrekGS.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StartTrekGS.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
